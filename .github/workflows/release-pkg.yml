@@ -21,7 +21,7 @@ jobs:
       - run: echo ${{ github.event.release.tag_name }}
 
       - name: Build package
-        run: go build-v ./...
+        run: go build -v ./...
 
       - name: Publish distribution 📦 to pkg.go.dev
         if: startsWith(github.event.ref, 'refs/tags') || github.event_name == 'release'
