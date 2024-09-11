@@ -6,6 +6,8 @@
 
 ---
 
+https://go.dev/doc/modules/publishing
+
 ## Commands
 
 ```bash
