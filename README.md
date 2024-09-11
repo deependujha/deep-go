@@ -1,5 +1,7 @@
 # Deep-Go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/deependujha/deep-go.svg)](https://pkg.go.dev/github.com/deependujha/deep-go)
+
 ![logo](./image.jpg)
 
 ---
